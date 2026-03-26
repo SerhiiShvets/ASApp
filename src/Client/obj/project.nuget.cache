@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ya9deRAxOoY=",
+  "success": true,
+  "projectFilePath": "E:\\Workspace\\Repos\\Shyrokoryadov\\ASApp\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergii\\.nuget\\packages\\duende.identitymodel\\8.1.0\\duende.identitymodel.8.1.0.nupkg.sha512",
+    "C:\\Users\\Sergii\\.nuget\\packages\\microsoft.bcl.memory\\10.0.4\\microsoft.bcl.memory.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

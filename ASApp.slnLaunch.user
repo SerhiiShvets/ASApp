@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "src\\IdentityServer\\IdentityServer.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\Api\\Api.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
