@@ -42,4 +42,5 @@ if (!response.IsSuccessStatusCode)
 
 var doc = JsonDocument.Parse(await response.Content.ReadAsStringAsync()).RootElement;
 Console.WriteLine(JsonSerializer.Serialize(doc, new JsonSerializerOptions { WriteIndented = true }));
+Console.ReadKey();
 return 0;
